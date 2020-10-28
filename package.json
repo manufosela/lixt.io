@@ -1,0 +1,17 @@
+{
+  "name": "lixt",
+  "version": "1.0.0",
+  "description": "lixt is a builder SSR pages with Lit-Elements",
+  "main": "./lib/lixt.js",
+  "bin": {
+    "linuxt": "./bin/index.js"
+  },
+  "author": "manufosela",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "es-dev-server": "^1.57.7",
+    "puppeteer": "^5.3.1",
+    "shelljs": "^0.8.4",
+    "yargs": "^16.0.3"
+  }
+}
